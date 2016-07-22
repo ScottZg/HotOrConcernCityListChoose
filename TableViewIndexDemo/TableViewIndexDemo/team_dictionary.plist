@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>B组</key>
+	<array/>
+	<key>C组</key>
+	<array/>
+	<key>D组</key>
+	<array/>
+	<key>E组</key>
+	<array/>
+	<key>A组</key>
+	<array>
+		<string>A1-南非</string>
+		<string>A2-墨西哥</string>
+		<string>A3-乌拉圭</string>
+		<string>A4-法国</string>
+	</array>
+</dict>
+</plist>

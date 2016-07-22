@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b93b73f7-5ebc-104e-b220-177ad0e5c6fe++9296" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b93b73f7-5ebc-104e-b220-177ad0e5c6fe++9296" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE3C3EDB-4207-461E-AC52-78C61FF583E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b93b73f7-5ebc-104e-b220-177ad0e5c6fe++9296" : "zhanggui\/%E5%AE%9E%E9%AA%8C%E5%9F%BA%E5%9C%B0\/TableViewIndexDemo\/TableViewIndexDemo\/AFNet\/AFNetworking\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TableViewIndexDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "实验基地\/TableViewIndexDemo\/TableViewIndexDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.2.10:8443\/svn\/MobileDevelopment",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b93b73f7-5ebc-104e-b220-177ad0e5c6fe++9296"
+    }
+  ]
+}

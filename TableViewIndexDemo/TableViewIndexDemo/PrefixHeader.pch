@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  TableViewIndexDemo
+//
+//  Created by zhanggui on 16/7/21.
+//  Copyright © 2016年 zhanggui. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+// WeakSelf
+#define XDWeakObj(o) autoreleasepool{} __weak typeof(o) o##Weak = o;;
+#define XDStrongObj(o) autoreleasepool{} __strong typeof(o) o = o##Weak;
+
+//屏幕尺寸
+#define KScreenWith [UIScreen mainScreen].bounds.size.width
+
+#define KScreenHeight [UIScreen mainScreen].bounds.size.width
+
+#endif /* PrefixHeader_pch */
